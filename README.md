@@ -1,5 +1,4 @@
-<img width="1219" height="276" alt="aafd394c-880f-4fcc-b16c-d62de619d6ed" src="https://github.com/user-attachments/assets/858f5779-2f1a-4763-be73-5661e444bcd7" />
-<img width="1219" height="276" alt="aafd394c-880f-4fcc-b16c-d62de619d6ed" src="https://github.com/user-attachments/assets/3c46e9d3-91d6-4ebb-bad4-86206ae251a3" />
+
 # Sturdy-Octo-Disco-Adding-Sunglasses-for-a-Cool-New-Look
 Sturdy Octo Disco is a fun project that adds sunglasses to photos using image processing.
 
